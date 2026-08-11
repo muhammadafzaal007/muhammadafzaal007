@@ -190,7 +190,7 @@ Worked as a Campus Ambassador, helping students explore technology, career oppor
 
 # 📊 GitHub Analytics
 
-<h2>📊 GitHub Analytics</h2>
+
 
 <p align="center">
   <img
