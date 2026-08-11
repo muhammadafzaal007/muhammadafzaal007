@@ -140,14 +140,18 @@ I enjoy developing complete applications from **frontend to backend and database
 
 # 📌 Featured Projects
 
-| # | Project                   | Description                                                                                                      | Technologies                                                   | Links                                                                               |
-| - | ------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 1 |  **TaskFlow Pro**       | Full-stack task management application with authentication, task management, dashboard and database integration. | React, Tailwind CSS, Node.js, Express.js, MySQL                | <a href="https://github.com/muhammadafzaal007/Task-Flow" target="_blank">GitHub</a> |
-| 2 |  **QuickBite**          | Full-stack food delivery application with authentication, cart management, orders and online payments.           | React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Stripe | <a href="https://github.com/muhammadafzaal007" target="_blank">GitHub</a>           |
-| 3 | 🐄 **Pak Animal Feed**    | Modern business website developed for an animal feed business.                                                   | React, Tailwind CSS, JavaScript                                | <a href="https://pak-animal-feed.vercel.app/" target="_blank">Live Demo</a>         |
-| 4 |  **Personal Portfolio** | Personal developer portfolio showcasing skills, projects, experience and contact information.                    | React, Tailwind CSS, JavaScript                                | <a href="https://muhammadafzaal.vercel.app/" target="_blank">Live Demo</a>          |
-
----
+| # | Project | Description | Technologies |
+|---|---|---|---|
+| 1 | **TaskFlow** | Full-stack task management platform with authentication, task management, dashboard, REST APIs, and database integration. | React, Tailwind CSS, Node.js, Express.js, MySQL |
+| 2 | **QuickBite** | Full-stack food delivery platform with authentication, cart management, order processing, and online payments. | React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Stripe |
+| 3 | **Chari Team – Charity Platform** | Fully responsive charity platform with modern UI/UX, scalable frontend architecture, and smooth interactive animations. | React.js, Tailwind CSS, Framer Motion |
+| 4 | **Weather Forecast Web App** | Weather forecasting application with real-time weather data, API integration, dynamic updates, and search functionality. | React.js, REST API, JavaScript, CSS |
+| 5 | **Quiz Application** | Interactive quiz application with dynamic question rendering, state management, score calculation, and responsive UI. | React.js, JavaScript, CSS |
+| 6 | **CRUD Web Application** | Single Page Application implementing complete CRUD operations with RESTful APIs, backend validation, notifications, and error handling. | React.js, Node.js, Express.js, REST API |
+| 7 | **GitHub Users Search App** | Web application integrating the GitHub API to search and filter user profiles dynamically in real time. | HTML, CSS, JavaScript, GitHub API |
+| 8 | **Ecommerce Product Filter System** | Responsive ecommerce interface with category-based dynamic filtering, product rendering, event handling, and clean UI/UX. | HTML, CSS, JavaScript |
+| 9 | **Pak Animal Feed** | Modern responsive business website developed for an animal feed business with a clean and user-friendly interface. | React, Tailwind CSS, JavaScript |
+| 10 | **Portfolio Website** | Modern personal portfolio built as a responsive SPA with project showcases, smooth navigation, contact functionality, and responsive design. | React.js, Tailwind CSS, Bootstrap, EmailJS |
 
 
 #  Areas of Interest
