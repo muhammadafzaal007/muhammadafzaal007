@@ -118,26 +118,6 @@ Worked as a Campus Ambassador, helping students explore technology, career oppor
 
 ---
 
-# 🚀 What I Build
-
-```text
-Frontend
-   ↓
-React + JavaScript + Tailwind CSS
-   ↓
-REST APIs
-   ↓
-Node.js + Express.js
-   ↓
-MongoDB / MySQL
-   ↓
-Vercel / Railway / Render
-````
-
-I enjoy developing complete applications from **frontend to backend and database**, including authentication, REST APIs, dashboards, database integration and deployment.
-
----
-
 # 📌 Featured Projects
 
 | # | Project | Description | Technologies |
@@ -154,34 +134,27 @@ I enjoy developing complete applications from **frontend to backend and database
 | 10 | **Portfolio Website** | Modern personal portfolio built as a responsive SPA with project showcases, smooth navigation, contact functionality, and responsive design. | React.js, Tailwind CSS, Bootstrap, EmailJS |
 
 
-#  Areas of Interest
-
-* 🌐 Full Stack Web Development
-* ⚛️ React.js
-* 🟢 Node.js & Express.js
-* 🗄️ SQL & NoSQL Databases
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 💬 Natural Language Processing
-* ☁️ Cloud Deployment
-* 🏗️ Software Architecture
-* 🔐 Authentication & REST APIs
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadafzaal007&show_icons=true&theme=tokyonight&hide_border=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadafzaal007&layout=compact&theme=tokyonight&hide_border=true" height="180">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=muhammadafzaal007&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadafzaal007&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadafzaal007&theme=tokyonight&hide_border=true">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadafzaal007&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
-
 
 #  Connect With Me
 
@@ -203,16 +176,6 @@ I enjoy developing complete applications from **frontend to backend and database
 
 ---
 
-#  Let's Build Something Amazing
-
-I'm always interested in:
-
-* 🚀 New projects
-* 💡 Innovative ideas
-* 🤝 Collaboration
-* 💼 Career opportunities
-* 🌐 Open-source projects
-* 🤖 AI & software development
 
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
