@@ -287,50 +287,5 @@ In this line:
 <a href="https://www.linkedin.com/" target="_blank">
 ```
 
-replace it with **your actual LinkedIn profile URL**.
-
-Also, for your TaskFlow project, I used:
-
-```text
-https://github.com/muhammadafzaal007/Task-Flow
-```
-
-If that is your correct repository, you're good.
-
-### About the banner
-
-For the Hassan-style layout, your profile will look approximately like:
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│             YOUR PROFILE BANNER                          │
-│                                                          │
-│        MUHAMMAD AFZAAL                                   │
-│        Software Engineer                                 │
-│        Full Stack Developer                              │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-
-        Software Engineer | Full Stack Developer
-          Turning ideas into scalable products
-
-                    👨‍💻 About Me
-                         ↓
-
-                  💼 Experience
-                         ↓
-
-                   🛠️ Tech Stack
-                         ↓
-
-                🚀 Featured Projects
-                         ↓
-
-                 📊 GitHub Analytics
-                         ↓
-
-                  🤝 Connect With Me
-```
 
 
