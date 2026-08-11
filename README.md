@@ -1,405 +1,300 @@
 
-<!-- ======================= HEADER ======================= -->
-
-<h1 align="center">Hi 👋, I'm Muhammad Afzaal</h1>
+# 👋 Hi, I'm Muhammad Afzaal
 
 <h3 align="center">
-  Full Stack Developer | Software Engineering Student | MERN Stack Developer
+  Software Engineer | Full Stack Developer | MERN Stack Developer
 </h3>
 
 <p align="center">
-  Building modern, responsive and scalable web applications 🚀
+  <b>Turning ideas into scalable, real-world digital products 🚀</b>
 </p>
 
 <p align="center">
-
-<a href="https://muhammadafzaal-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/muhammadafzaal007" target="_blank">
-<img src="https://img.shields.io/badge/💻%20GitHub-Profile-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-afzaal-431b45312/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+  <a href="https://github.com/muhammadafzaal007">
+    <img src="https://komarev.com/ghpvc/?username=muhammadafzaal007&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/muhammadafzaal007?tab=followers">
+    <img src="https://img.shields.io/github/followers/muhammadafzaal007?label=Followers&style=flat" />
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **Muhammad Afzaal**, a **Software Engineering student** and **Full Stack Developer** passionate about creating modern, responsive and user-friendly web applications.
+I'm **Muhammad Afzaal**, a Software Engineering student and Full Stack Developer passionate about building modern, scalable and user-friendly applications.
 
-I enjoy turning ideas into real-world applications using modern frontend and backend technologies.
-
-- 🎓 BS Software Engineering Student
-- 💻 Full Stack Web Developer
-- ⚛️ React Developer
-- 🟢 Node.js & Express.js Developer
-- 🗄️ MySQL & MongoDB
-- 🎨 Tailwind CSS
-- 🔐 REST APIs & JWT Authentication
-- 🚀 Full Stack Application Development
-- 📚 Continuously learning new technologies
+- 🎓 **BS Software Engineering** student at **University of Agriculture Faisalabad**
+- 💻 Full Stack Developer working with **MERN Stack**
+- 🚀 Interested in building scalable web applications and real-world solutions
+- 🧑‍💼 Currently doing an internship at **Directorate of Information Technology, Government College University Lahore**
+- 🏫 Completed **MERN Stack training at Ideoversity**
+- 🌱 Continuously learning and improving my software development skills
+- 🤖 Interested in **AI, ML, NLP and emerging technologies**
+- 🎯 Focused on turning ideas into practical and scalable products
 
 ---
 
-# 🛠️ Tech Stack
+## 💼 Experience
 
-## 🎨 Frontend
+### 🧑‍💻 Software Engineering Intern
+**Directorate of Information Technology — Government College University Lahore**
 
-<p align="left">
+📍 Lahore, Pakistan  
+📅 **Currently**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+Working on software development, web technologies and real-world development practices while gaining professional industry experience.
 
+---
+
+### 🎓 MERN Stack Training
+**Ideoversity**
+
+Completed comprehensive training in:
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- REST APIs
+- Full Stack Web Development
+
+---
+
+### 🎓 Campus Ambassador
+**Search O Pal — University of Agriculture Faisalabad**
+
+📅 **2025 – 2026**
+
+Worked as a Campus Ambassador and helped students explore technology, career opportunities and digital platforms.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
+**HTML • CSS • JavaScript • React.js • Tailwind CSS • Bootstrap**
+
 ---
 
-## ⚙️ Backend
+### ⚙️ Backend
 
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
 </p>
+
+**Node.js • Express.js • REST APIs**
 
 ---
 
-## 🗄️ Database
+### 🗄️ Databases
 
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
 </p>
+
+**MongoDB • MySQL / SQL**
 
 ---
 
-## 🔧 Tools & Technologies
+### ☁️ Deployment & DevOps
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,railway,render,git,github" />
 </p>
+
+**Vercel • Railway • Render • Git • GitHub**
 
 ---
 
-# 🚀 What I Build
+### 🤖 AI / Data / Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
+
+**Python • C++ • Machine Learning • NLP • AI**
+
+---
+
+## 🚀 What I Build
 
 ```text
-                    💡 IDEA
-                       │
-                       ▼
-              🎨 FRONTEND UI
-                       │
-                       ▼
-               ⚛️ REACT / JS
-                       │
-                       ▼
-                  🔗 REST API
-                       │
-                       ▼
-              🟢 NODE + EXPRESS
-                       │
-                       ▼
-              🗄️ DATABASE
-             ┌─────────┴─────────┐
-             ▼                   ▼
-          MySQL               MongoDB
-             │                   │
-             └─────────┬─────────┘
-                       ▼
-                 🚀 DEPLOYMENT
+Frontend Applications
+        ↓
+React + Tailwind CSS + Bootstrap
+        ↓
+REST APIs
+        ↓
+Node.js + Express.js
+        ↓
+MongoDB / MySQL
+        ↓
+Vercel / Railway / Render
 ````
 
-I focus on building applications that are:
-
-* ⚡ Fast
-* 📱 Responsive
-* 🔐 Secure
-* 🧩 Maintainable
-* 📈 Scalable
-* 🎯 User-focused
+I enjoy developing complete applications from **frontend to backend and database**, including authentication, APIs, dashboards and deployment.
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 🚀 TaskFlow Pro
+### 🚀 TaskFlow Pro
 
-A full-stack task management application for creating, managing, completing and organizing tasks.
+A full-stack task management application built to manage tasks efficiently.
 
-### Technologies
+**Tech Stack:**
 
-```text
-React
-Tailwind CSS
-Node.js
-Express.js
-MySQL
-JWT Authentication
-REST API
-```
+`React` `Tailwind CSS` `Node.js` `Express.js` `MySQL`
 
-🔗 **GitHub Repository**
+**Features:**
 
-[https://github.com/muhammadafzaal007/Task-Flow](https://github.com/muhammadafzaal007/Task-Flow)
-
----
-
-## 🍔 QuickBite
-
-A full-stack food delivery application with authentication, food browsing, cart management, orders and payment integration.
-
-### Technologies
-
-```text
-React
-Tailwind CSS
-Node.js
-Express.js
-MongoDB
-JWT
-Stripe
-```
+* 🔐 User Authentication
+* 📝 Task Management
+* ✅ Task Completion
+* 🗂️ Task Organization
+* 📊 Dashboard
+* 🌙 Modern UI
+* 🔌 REST API
+* 🗄️ MySQL Database
 
 ---
 
-## 🐄 Pak Animal Feed
+### 🍔 QuickBite
 
-A responsive business website developed for an animal feed business.
+A modern full-stack food delivery application.
 
-### Technologies
+**Tech Stack:**
 
-```text
-React
-JavaScript
-Tailwind CSS
-Responsive Design
-```
+`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT` `Stripe`
 
-🌐 **Live Website**
+**Features:**
 
+* 👤 User Authentication
+* 🍕 Food Browsing
+* 🛒 Shopping Cart
+* 💳 Online Payments
+* 📦 Order Management
+* 🔐 JWT Authentication
+
+---
+
+### 🐄 Pak Animal Feed
+
+A web application developed for an animal feed business.
+
+**Tech Stack:**
+
+`React` `Tailwind CSS` `JavaScript`
+
+🔗 **Live Project:**
 [https://pak-animal-feed.vercel.app/](https://pak-animal-feed.vercel.app/)
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=muhammadafzaal007&show_icons=true&hide_border=true&count_private=true&rank_icon=github"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadafzaal007&layout=compact&hide_border=true"
-height="180"
-/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=muhammadafzaal007&hide_border=true"
-width="600"
-/>
-
-</p>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadafzaal007&hide_border=true&area=true"
-width="100%"
-/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=muhammadafzaal007&no-frame=true&no-bg=true&margin-w=10&row=1"
-/>
-
-</p>
-
----
-
-# 🎯 Currently Learning
+## 📚 Currently Learning
 
 ```text
-⚛️ Advanced React
-▲ Next.js
-🟢 Advanced Node.js
-🗄️ SQL & Database Design
-🔐 Authentication & Authorization
-🔗 REST API Development
-☁️ Cloud Deployment
-🏗️ Backend Architecture
-📈 Scalable Applications
+Advanced React
+       ↓
+Node.js & Express
+       ↓
+SQL & Database Design
+       ↓
+System Design
+       ↓
+AI / ML / NLP
+       ↓
+Scalable Full Stack Applications
 ```
 
 ---
 
-# 🎯 2026 Goals
+## 🧠 Areas of Interest
 
-* 🚀 Build more production-ready applications
-* 💻 Improve Full Stack development skills
-* 🧠 Strengthen Data Structures & Algorithms
-* 🗄️ Improve SQL and database design
-* ☁️ Learn cloud technologies
-* 🤝 Contribute to open-source projects
-* 📚 Continue learning modern web technologies
-
----
-
-# 💼 Development Philosophy
-
-> "Don't just write code. Build solutions."
-
-I believe good software should be:
-
-**Simple → Scalable → Secure → Maintainable → User-Friendly**
+* 🌐 Full Stack Web Development
+* ⚛️ React.js
+* 🟢 Node.js
+* 🗄️ SQL & NoSQL Databases
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 💬 Natural Language Processing
+* ☁️ Cloud Deployment
+* 🏗️ Software Architecture
+* 🔐 Authentication & APIs
 
 ---
 
-# 📫 Connect With Me
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadafzaal007&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadafzaal007&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadafzaal007&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadafzaal007/muhammadafzaal007/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎯 My Goals
+
+> **Learn → Build → Deploy → Improve → Repeat 🚀**
+
+My goal is to become a highly skilled Software Engineer capable of designing and developing scalable software products that solve real-world problems.
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://muhammadafzaal-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge" />
+<a href="https://github.com/muhammadafzaal007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/muhammadafzaal007" target="_blank">
-<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github" />
+<a href="https://muhammadafzaal.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/muhammad-afzaal-431b45312/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+## 💬 Let's Build Something Amazing
+
+I'm always interested in:
+
+* 🚀 New projects
+* 💡 Innovative ideas
+* 🤝 Collaboration
+* 💼 Internship & career opportunities
+* 🌐 Open-source projects
+* 🤖 AI & software development
 
 <p align="center">
-
-<img
-src="https://komarev.com/ghpvc/?username=muhammadafzaal007&label=Profile%20Views&style=for-the-badge"
-/>
-
+  <b>Thanks for visiting my profile! ⭐</b>
 </p>
-
----
-
-<h2 align="center">
-  💡 Turning Ideas Into Scalable Web Applications 🚀
-</h2>
 
 <p align="center">
-  ⭐ Explore my repositories and let's build something amazing!
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
 </p>
 ```
-
-## How to add it
-
-Your GitHub profile is:
-
-[github.com/muhammadafzaal007](https://github.com/muhammadafzaal007?utm_source=chatgpt.com)
-
-You already have the profile README repository, as shown on your profile. ([GitHub][1])
-
-Do this:
-
-**1.** Open your profile README repository.
-
-**2.** Open:
-
-```text
-README.md
-```
-
-**3.** Click the **✏️ Edit** button.
-
-**4.** Press:
-
-```text
-Ctrl + A
-```
-
-and delete the old README.
-
-**5.** Paste the complete code above.
-
-**6.** Scroll down and click:
-
-```text
-Commit changes
-```
-
-**7.** Go back to your profile and refresh.
-
-Your profile will then have:
-
-```text
-👋 Muhammad Afzaal
-       ↓
-👨‍💻 About Me
-       ↓
-🛠️ Tech Stack
-       ↓
-🚀 What I Build
-       ↓
-📌 Featured Projects
-       ↓
-📊 GitHub Analytics
-       ↓
-🔥 GitHub Streak
-       ↓
-📈 Contribution Graph
-       ↓
-🏆 GitHub Trophies
-       ↓
-🎯 Currently Learning
-       ↓
-🎯 2026 Goals
-       ↓
-💼 Development Philosophy
-       ↓
-📫 Connect With Me
-```
-
-### One important correction
-
-Use your portfolio URL exactly as:
-
-[muhammadafzaal-portfolio.vercel.app](https://muhammadafzaal-portfolio.vercel.app/?utm_source=chatgpt.com)
-
-and your GitHub URL as:
-
-[github.com/muhammadafzaal007](https://github.com/muhammadafzaal007?utm_source=chatgpt.com)
-
-
