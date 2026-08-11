@@ -216,8 +216,6 @@ Worked as a Campus Ambassador, helping students explore technology, career oppor
 ---
 # 🤝 Connect With Me
 
-<h2>🤝 Connect With Me</h2>
-
 <p align="center">
   <a href="https://github.com/muhammadafzaal007">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
