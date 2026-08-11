@@ -1,5 +1,5 @@
 
-# Hi, I'm Muhammad Afzaal 
+<!-- # Hi, I'm Muhammad Afzaal 
 
 <h3 align="center">
   Software Engineer | Full Stack Developer | MERN Stack Developer
@@ -18,7 +18,7 @@
   </a>
 </p>
 
----
+--- -->
 
 <!-- ==================== BANNER ==================== -->
 
@@ -26,11 +26,11 @@
   <img src="Cover Photo.png" alt="Muhammad Afzaal Banner" width="100%">
 </p>
 
----
 
-## 👨‍💻 About Me
+# Software Engineer | Full Stack Developer | MERN Stack
 
-I'm **Muhammad Afzaal**, a Software Engineering student and Full Stack Developer passionate about building modern, scalable and user-friendly applications.
+> *Building solutions, learning continuously, and turning ideas into reality* 💻
+> Developing scalable full-stack applications with React, Node.js, Express, MongoDB & SQL, while gaining professional experience and exploring AI, ML, and NLP.
 
 - 🎓 **BS Software Engineering** student at **University of Agriculture Faisalabad**
 - 💻 Full Stack Developer specializing in **MERN Stack**
@@ -45,7 +45,7 @@ I'm **Muhammad Afzaal**, a Software Engineering student and Full Stack Developer
 
 ## 💼 Experience
 
-### 🧑‍💻 Software Engineering Intern
+###  Software Engineering Intern
 
 **Directorate of Information Technology — Government College University Lahore**
 
@@ -171,23 +171,6 @@ I enjoy developing complete applications from **frontend to backend and database
 
 ---
 
-# 📚 Currently Learning
-
-```text
-Advanced React
-      ↓
-Node.js & Express
-      ↓
-SQL & Database Design
-      ↓
-System Design
-      ↓
-AI / ML / NLP
-      ↓
-Scalable Full Stack Applications
-```
-
----
 
 # 🧠 Areas of Interest
 
@@ -217,16 +200,6 @@ Scalable Full Stack Applications
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/muhammadafzaal007/muhammadafzaal007/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
 
 # 🤝 Connect With Me
 
