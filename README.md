@@ -1,26 +1,4 @@
 
-<!-- # Hi, I'm Muhammad Afzaal 
-
-<h3 align="center">
-  Software Engineer | Full Stack Developer | MERN Stack Developer
-</h3>
-
-<p align="center">
-  <b>Turning ideas into scalable, real-world digital products 🚀</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/muhammadafzaal007" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=muhammadafzaal007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-  </a>
-  <a href="https://github.com/muhammadafzaal007?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/muhammadafzaal007?label=Followers&style=flat" alt="GitHub Followers">
-  </a>
-</p>
-
---- -->
-
-<!-- ==================== BANNER ==================== -->
 
 <p align="center">
   <img src="Cover Photo.png" alt="Muhammad Afzaal Banner" width="100%">
@@ -32,14 +10,14 @@
 > *Building solutions, learning continuously, and turning ideas into reality* 💻
 > Developing scalable full-stack applications with React, Node.js, Express, MongoDB & SQL, while gaining professional experience and exploring AI, ML, and NLP.
 
-- 🎓 **BS Software Engineering** student at **University of Agriculture Faisalabad**
+<!-- - 🎓 **BS Software Engineering** student at **University of Agriculture Faisalabad**
 - 💻 Full Stack Developer specializing in **MERN Stack**
 - 🧑‍💼 Currently working as an intern at **Directorate of Information Technology, Government College University Lahore**
 - 🏫 Completed **MERN Stack training at Ideoversity**
 - 🎓 Worked as **Campus Ambassador at Search O Pal, University of Agriculture Faisalabad (2025–2026)**
 - 🤖 Interested in **Artificial Intelligence, Machine Learning and NLP**
 - 🌱 Continuously learning new technologies and development practices
-- 🚀 Passionate about turning ideas into practical and scalable software products
+- 🚀 Passionate about turning ideas into practical and scalable software products -->
 
 ---
 
@@ -164,15 +142,15 @@ I enjoy developing complete applications from **frontend to backend and database
 
 | # | Project                   | Description                                                                                                      | Technologies                                                   | Links                                                                               |
 | - | ------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 1 | 🚀 **TaskFlow Pro**       | Full-stack task management application with authentication, task management, dashboard and database integration. | React, Tailwind CSS, Node.js, Express.js, MySQL                | <a href="https://github.com/muhammadafzaal007/Task-Flow" target="_blank">GitHub</a> |
-| 2 | 🍔 **QuickBite**          | Full-stack food delivery application with authentication, cart management, orders and online payments.           | React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Stripe | <a href="https://github.com/muhammadafzaal007" target="_blank">GitHub</a>           |
+| 1 |  **TaskFlow Pro**       | Full-stack task management application with authentication, task management, dashboard and database integration. | React, Tailwind CSS, Node.js, Express.js, MySQL                | <a href="https://github.com/muhammadafzaal007/Task-Flow" target="_blank">GitHub</a> |
+| 2 |  **QuickBite**          | Full-stack food delivery application with authentication, cart management, orders and online payments.           | React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Stripe | <a href="https://github.com/muhammadafzaal007" target="_blank">GitHub</a>           |
 | 3 | 🐄 **Pak Animal Feed**    | Modern business website developed for an animal feed business.                                                   | React, Tailwind CSS, JavaScript                                | <a href="https://pak-animal-feed.vercel.app/" target="_blank">Live Demo</a>         |
-| 4 | 💼 **Personal Portfolio** | Personal developer portfolio showcasing skills, projects, experience and contact information.                    | React, Tailwind CSS, JavaScript                                | <a href="https://muhammadafzaal.vercel.app/" target="_blank">Live Demo</a>          |
+| 4 |  **Personal Portfolio** | Personal developer portfolio showcasing skills, projects, experience and contact information.                    | React, Tailwind CSS, JavaScript                                | <a href="https://muhammadafzaal.vercel.app/" target="_blank">Live Demo</a>          |
 
 ---
 
 
-# 🧠 Areas of Interest
+#  Areas of Interest
 
 * 🌐 Full Stack Web Development
 * ⚛️ React.js
@@ -201,7 +179,7 @@ I enjoy developing complete applications from **frontend to backend and database
 ---
 
 
-# 🤝 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -221,7 +199,7 @@ I enjoy developing complete applications from **frontend to backend and database
 
 ---
 
-# 💬 Let's Build Something Amazing
+#  Let's Build Something Amazing
 
 I'm always interested in:
 
