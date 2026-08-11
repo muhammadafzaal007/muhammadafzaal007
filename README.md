@@ -223,19 +223,14 @@ Scalable Full Stack Applications
 
 ---
 
-# 🐍 Contribution Graph
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadafzaal007/muhammadafzaal007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <img
+    src="https://raw.githubusercontent.com/muhammadafzaal007/muhammadafzaal007/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
-
----
-
-# 🎯 My Goals
-
-> **Learn → Build → Deploy → Improve → Repeat 🚀**
-
-My goal is to become a highly skilled **Software Engineer** capable of designing and developing scalable software products that solve real-world problems.
 
 ---
 
@@ -247,11 +242,11 @@ My goal is to become a highly skilled **Software Engineer** capable of designing
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://muhammadafzaal.vercel.app/" target="_blank">
+<a href="https://muhammadafzaal-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-afzaal-431b45312/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -277,15 +272,7 @@ I'm always interested in:
 <p align="center">
   <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
 </p>
-```
 
-### ⚠️ One thing you need to change
-
-In this line:
-
-```html
-<a href="https://www.linkedin.com/" target="_blank">
-```
 
 
 
