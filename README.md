@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="./Cover Photo.png" alt="Muhammad Afzaal Banner" width="100%">
-</p>
-```
-
-
 # Hi, I'm Muhammad Afzaal 
 
 <h3 align="center">
@@ -29,7 +23,7 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="./profile-banner.png" alt="Muhammad Afzaal Banner" width="100%">
+  <img src="Cover Photo.png" alt="Muhammad Afzaal Banner" width="100%">
 </p>
 
 ---
