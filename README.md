@@ -10,16 +10,6 @@
 > *Building solutions, learning continuously, and turning ideas into reality* 💻
 > Developing scalable full-stack applications with React, Node.js, Express, MongoDB & SQL, while gaining professional experience and exploring AI, ML, and NLP.
 
-<!-- - 🎓 **BS Software Engineering** student at **University of Agriculture Faisalabad**
-- 💻 Full Stack Developer specializing in **MERN Stack**
-- 🧑‍💼 Currently working as an intern at **Directorate of Information Technology, Government College University Lahore**
-- 🏫 Completed **MERN Stack training at Ideoversity**
-- 🎓 Worked as **Campus Ambassador at Search O Pal, University of Agriculture Faisalabad (2025–2026)**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning and NLP**
-- 🌱 Continuously learning new technologies and development practices
-- 🚀 Passionate about turning ideas into practical and scalable software products -->
-
----
 
 ## 💼 Experience
 
@@ -137,25 +127,27 @@ Worked as a Campus Ambassador, helping students explore technology, career oppor
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=muhammadafzaal007&show_icons=true&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=muhammadafzaal007&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
+    alt="GitHub Stats"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadafzaal007&layout=compact&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammadafzaal007&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadafzaal007&theme=tokyonight&hide_border=true"
     height="180"
+    alt="GitHub Streak"
   />
 </p>
 
 ---
-
 #  Connect With Me
 
 <p align="center">
